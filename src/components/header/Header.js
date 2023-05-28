@@ -8,9 +8,9 @@ const Header = () => {
             <div className="col-md-12 header">
                 <h1 className="h1">Secure Password Generator</h1>
                 <div className="col-md-12">
-                    <h2>
-                    Need Secure Password?
-                    </h2>
+                    <h4>
+                    Need a Unique, Secure Password?
+                    </h4>
                 </div>
             </div>
         </div>

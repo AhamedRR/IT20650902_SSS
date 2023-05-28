@@ -10,25 +10,25 @@ const CHECKBOX_LIST = [
     {
         id: 0,
         name: 'uppercase',
-        label: 'Uppercase',
+        label: 'ABC',
         isChecked: true
     },
     {
         id: 1,
         name: 'lowercase',
-        label: 'Lowercase',
+        label: 'abc',
         isChecked: true
     },
     {
         id: 2,
         name: 'symbols',
-        label: 'Symbols',
+        label: '#$&',
         isChecked: true
     },
     {
         id: 3,
         name: 'numbers',
-        label: 'Numbers',
+        label: '123',
         isChecked: true
     },
 ];
